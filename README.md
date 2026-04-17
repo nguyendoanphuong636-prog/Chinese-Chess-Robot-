@@ -19,7 +19,7 @@ Chinese-Chess-Robot-/
 ## Quick start
 
 ```bash
-chmod +x /home/runner/work/Chinese-Chess-Robot-/Chinese-Chess-Robot-/scripts/setup.sh
-/home/runner/work/Chinese-Chess-Robot-/Chinese-Chess-Robot-/scripts/setup.sh
-/home/runner/work/Chinese-Chess-Robot-/Chinese-Chess-Robot-/scripts/run.sh
+chmod +x ./scripts/setup.sh ./scripts/run.sh
+./scripts/setup.sh
+./scripts/run.sh
 ```
